@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">TestTY</string>
     <string name="title_activity_maps">Map</string>
+    
+    <!-- plain strings -->
+    <string name="_ok">Ok</string>
+    
+    <!-- permissionsLocation rationale -->
+    <string name="permissionsLocation_rationale_title">
+        Permisios de localización necesarios
+    </string>
+    <string name="permissionsLocation_rationale_content">
+        Los permisos de localización son indispensables para ayudarle a encontrar su destino
+    </string>
+    <string name="permissionsLocation_rationale_positiveButton">@string/_ok</string>
+    
 </resources>
